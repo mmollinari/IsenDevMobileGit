@@ -1,7 +1,5 @@
 Marc
-<<<<<<< HEAD
 Adel Chakouri
 Julien Pons
-=======
-Antoine
->>>>>>> e37d6649af216d5add4ebcc158f1ed8f1fba978b
+Antoine Comment ?
+
